@@ -1,4 +1,4 @@
-alert("Olá!")
+alert("Tarefa Aula 03!")
 
 // const A = 10
 // const b = 20
@@ -16,5 +16,7 @@ const b = Number(prompt("Digite o valor da porcentagem de aumento"))
 const lista = [a,b]
 
 let resultado = a * b / 100
+
+resultado = a + resultado
 
 document.write(resultado);
