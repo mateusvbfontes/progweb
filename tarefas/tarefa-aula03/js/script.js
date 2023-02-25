@@ -1,4 +1,4 @@
-alert("Tarefa Aula 03!")
+alert("Atividade Aula 03!")
 
 // const A = 10
 // const b = 20
@@ -19,4 +19,4 @@ let resultado = a * b / 100
 
 resultado = a + resultado
 
-document.write(resultado);
+document.write("Salário com aumento percentual:" + resultado);
